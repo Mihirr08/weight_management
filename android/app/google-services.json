@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "394523194339",
+    "firebase_url": "https://weight-management-app-3e42d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "weight-management-app-3e42d",
+    "storage_bucket": "weight-management-app-3e42d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394523194339:android:4ecf412487b6a34843e6d6",
+        "android_client_info": {
+          "package_name": "com.example.weight_management_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394523194339-uvg9frvnpe1fa660muj2dom2n0jgdfs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCScJ7nW4yW6PEI9AZ8YopuzuObb03wc68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394523194339-uvg9frvnpe1fa660muj2dom2n0jgdfs0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "394523194339-5k04hf5tb3bbd5iint8htm4npemgd0ei.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.weightManagementApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
